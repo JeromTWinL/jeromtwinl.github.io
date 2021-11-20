@@ -1,6 +1,6 @@
 ---
 name: Add Project (Request)
-about: Need your project displayed in my website?
+about: Add your project(s) in my website!
 labels: projectadd
 title: Name of your project
 ---
@@ -10,6 +10,8 @@ title: Name of your project
 
 3.Usage for your Project
 
-4.Is it app or cmdsh or other
+4.Is it app or cmd, sh or other
 
-5.Recommended requirements for pc (if needed)
+5.Minimum and Recommended requirements for pc (if needed)
+
+6.Include extras if needed

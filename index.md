@@ -26,3 +26,10 @@ Create an issue with
 No projects was added
 
 <a href="https://github.com/JeromTWinL/jeromtwinl.github.io/issues/new/choose">+ Add One</a>
+
+## about
+I'm just a normal guy, but my thinking at everytime is 'Windows On Devices'
+
+I'll just do everything in windows.
+
+Trying to port windows on rpi3, phones etc.

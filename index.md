@@ -51,13 +51,3 @@ XiaoMiTool V2 can download the latest official ROMs, TWRP, root with magisk, and
 <p>
 @cycool29 and @Itai-Nelken for fixing build scripts.
 </p>
-<h2>about</h2>
-<p>
-I'm just a normal guy, but my thinking at everytime is 'Windows On Devices'
-</p>
-<p>
-I'll just do everything in windows.
-</p>
-<p>
-Trying to port windows on rpi3, phones etc.
-</p>
